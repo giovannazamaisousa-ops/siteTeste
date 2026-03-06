@@ -5,3 +5,19 @@ body {
     height: 100vh;
     background-color: rgb(252, 197, 220);
 }
+a{
+    text-decoration: none;
+}
+box. {
+    font-size: 20px;
+    color: rgb(224, 126, 172);
+    height: 300px;
+    width: 500px;
+    border-radius: 10px;
+    background-color: rgb(226, 127, 177);
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
