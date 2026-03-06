@@ -29,3 +29,12 @@ a{
     height: 50px;
     width: 150px;
 }
+
+button { 
+    height: 30px;
+    width: 50px;
+    background-color: fuchsia;
+    border-radius: 5px;
+    color: deeppink;
+    font-weight: 600;
+}
